@@ -1,0 +1,19 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	display: grid;
+	place-items: center;
+}
+
+button {
+	padding: 1.8rem 3rem;
+	font-size: 1.5em;
+	background-color: #24acf2;
+	border-radius: 5px;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+button:hover {
+	background-color: hsl(200, 89%, 35%);
+}
